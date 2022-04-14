@@ -1,0 +1,58 @@
+c:\users\pc-6\documents\visual studio 2012\Projects\restoran\restoran\bin\Debug\restoran.exe.config
+c:\users\pc-6\documents\visual studio 2012\Projects\restoran\restoran\bin\Debug\restoran.exe
+c:\users\pc-6\documents\visual studio 2012\Projects\restoran\restoran\bin\Debug\restoran.pdb
+c:\users\pc-6\documents\visual studio 2012\Projects\restoran\restoran\bin\Debug\restoran.xml
+c:\users\pc-6\documents\visual studio 2012\Projects\restoran\restoran\obj\Debug\restoran.FR_MENU.resources
+c:\users\pc-6\documents\visual studio 2012\Projects\restoran\restoran\obj\Debug\restoran.FR_LOGIN.resources
+c:\users\pc-6\documents\visual studio 2012\Projects\restoran\restoran\obj\Debug\restoran.Resources.resources
+c:\users\pc-6\documents\visual studio 2012\Projects\restoran\restoran\obj\Debug\restoran.vbproj.GenerateResource.Cache
+c:\users\pc-6\documents\visual studio 2012\Projects\restoran\restoran\obj\Debug\restoran.exe
+c:\users\pc-6\documents\visual studio 2012\Projects\restoran\restoran\obj\Debug\restoran.xml
+c:\users\pc-6\documents\visual studio 2012\Projects\restoran\restoran\obj\Debug\restoran.pdb
+c:\users\pc-6\documents\visual studio 2012\Projects\restoran\restoran\obj\Debug\restoran.FR_BARANG.resources
+c:\users\pc-6\documents\visual studio 2012\Projects\restoran\restoran\obj\Debug\restoran.FR_KARYAWAN.resources
+c:\users\pc-6\documents\visual studio 2012\Projects\restoran\restoran\obj\Debug\restoran.FR_KELUAR.resources
+c:\users\pc-6\documents\visual studio 2012\Projects\restoran\restoran\obj\Debug\restoran.FR_LAPORAN.resources
+c:\users\pc-6\documents\visual studio 2012\Projects\restoran\restoran\obj\Debug\restoran.FR_MASUK.resources
+c:\users\pc-6\documents\visual studio 2012\Projects\restoran\restoran\obj\Debug\restoran.FR_TENTANG.resources
+F:\Aplikasi UKK\Visual Studio 2012\Projects\restoran\restoran\bin\Debug\restoran.exe.config
+F:\Aplikasi UKK\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.exe
+F:\Aplikasi UKK\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.xml
+F:\Aplikasi UKK\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.pdb
+F:\Aplikasi UKK\Visual Studio 2012\Projects\restoran\restoran\bin\Debug\restoran.exe
+F:\Aplikasi UKK\Visual Studio 2012\Projects\restoran\restoran\bin\Debug\restoran.pdb
+F:\Aplikasi UKK\Visual Studio 2012\Projects\restoran\restoran\bin\Debug\restoran.xml
+F:\Aplikasi UKK\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.FR_BARANG.resources
+F:\Aplikasi UKK\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.FR_KARYAWAN.resources
+F:\Aplikasi UKK\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.FR_KELUAR.resources
+F:\Aplikasi UKK\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.FR_LAPORAN.resources
+F:\Aplikasi UKK\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.FR_MASUK.resources
+F:\Aplikasi UKK\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.FR_MENU.resources
+F:\Aplikasi UKK\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.FR_LOGIN.resources
+F:\Aplikasi UKK\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.FR_TENTANG.resources
+F:\Aplikasi UKK\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.Resources.resources
+F:\Aplikasi UKK\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.vbproj.GenerateResource.Cache
+C:\Users\Prian\Documents\Visual Studio 2012\Projects\restoran\restoran\bin\Debug\restoran.exe.config
+C:\Users\Prian\Documents\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.exe
+C:\Users\Prian\Documents\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.xml
+C:\Users\Prian\Documents\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.pdb
+C:\Users\Prian\Documents\Visual Studio 2012\Projects\restoran\restoran\bin\Debug\restoran.exe
+C:\Users\Prian\Documents\Visual Studio 2012\Projects\restoran\restoran\bin\Debug\restoran.pdb
+C:\Users\Prian\Documents\Visual Studio 2012\Projects\restoran\restoran\bin\Debug\restoran.xml
+C:\Users\Prian\Documents\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.FR_BARANG.resources
+C:\Users\Prian\Documents\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.FR_KARYAWAN.resources
+C:\Users\Prian\Documents\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.FR_KELUAR.resources
+C:\Users\Prian\Documents\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.FR_LAPORAN.resources
+C:\Users\Prian\Documents\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.FR_MASUK.resources
+C:\Users\Prian\Documents\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.FR_MENU.resources
+C:\Users\Prian\Documents\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.FR_LOGIN.resources
+C:\Users\Prian\Documents\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.FR_TENTANG.resources
+C:\Users\Prian\Documents\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.Resources.resources
+C:\Users\Prian\Documents\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.vbproj.GenerateResource.Cache
+C:\Users\Prian\Documents\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.FR_KONEKSI.resources
+C:\Users\Prian\Documents\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.vbprojResolveAssemblyReference.cache
+C:\Users\Prian\Documents\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.FR_PREVIEW.resources
+C:\Users\Prian\Documents\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.FR_PENGATURAN.resources
+C:\Users\Prian\Documents\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.FR_ADMIN.resources
+C:\Users\Prian\Documents\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.FR_HAKAKSES.resources
+C:\Users\Prian\Documents\Visual Studio 2012\Projects\restoran\restoran\obj\Debug\restoran.Fr_trAdmin.resources
